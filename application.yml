@@ -17,8 +17,5 @@ management:
   endpoint:
     health:
       show-details: always
-      
-keycloak: 
-  oauth2:
-    issuer: http://localhost:8181/realms/shopping-app-microservices-realm
+
 
