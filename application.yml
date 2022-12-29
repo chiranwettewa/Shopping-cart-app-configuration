@@ -17,5 +17,10 @@ management:
   endpoint:
     health:
       show-details: always
+      
+spring:
+  zipkin:
+    baseUrl: http://zipkin:9411
+
 
 
